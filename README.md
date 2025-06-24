@@ -21,5 +21,6 @@ PublicationsDataSet/
 
 ## Usage
 - Exract PublicationsDataSet.zip to same place and run main.cpp
-- Results from the execution:<br />
+
+## Results
 ![image](https://github.com/user-attachments/assets/134bf333-bb61-46b0-9ffe-11497af9e377)
